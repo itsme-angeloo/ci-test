@@ -1,3 +1,3 @@
 const mySex = "Boy"
 
-consle.log(mySex)
+console.log(mySex)
