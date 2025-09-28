@@ -1,3 +1,3 @@
 const myAge = 23
 
-conso.log(myAge)
+conso;e.log(myAge)
